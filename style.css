@@ -13,7 +13,8 @@
 }
 
 body {
-  background-color: rgb(var(--body-color));
+  /* background-color: rgb(var(--body-color)); */
+  background-image: url('https://images.pexels.com/photos/3178786/pexels-photo-3178786.jpeg?cs=srgb&dl=pexels-andrew-neel-3178786.jpg&fm=jpg');
   margin: 0px;
 }
 
@@ -1020,7 +1021,7 @@ position: absolute;
   animation: blinkH1 5s  infinite;
 }
 
-h3:after{
+/* h3:after{
 content: attr(data-text);
 position: absolute;
 top: 0;
@@ -1058,7 +1059,7 @@ top: calc(50% + 5px);
 text-align: center;
   line-height: 1;
   margin-top: 15px;
-}
+} */
 
 .searchContainer {
   display: flex;
