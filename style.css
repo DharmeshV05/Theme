@@ -108,11 +108,11 @@ button, a, input {
   text-decoration: underline; 
 }
 
-#header-container {
+/* #header-container {
   width: 100%;
   position: relative;
   margin-top: 1rem;
-}
+} */
 
 #logo {
   display: flex;
