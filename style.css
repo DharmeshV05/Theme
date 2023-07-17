@@ -670,7 +670,7 @@ button, a, input {
 }
 
 /* Shadow */
-main { position: relative; }
+/* main { position: relative; } */
 main::after {
   content: '';
   display: block;
