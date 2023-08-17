@@ -234,7 +234,7 @@ button, a, input {
 }
 
 #apps-container > a > .label > .name {
-  font-size: 0.8rem;
+  font-size: 1Srem;
 }
 
 #apps-container > a > .label > .url {
